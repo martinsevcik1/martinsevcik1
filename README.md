@@ -8,8 +8,8 @@ Been working in marketing for the past 10 years. Not a developer, which the code
 
 ## Co tu najdeš
 
-Nástroje, které si stavím s Claudem, abych reklamní účty spravoval rychleji a s menším proklikáváním webových
-rozhraní. Co se mi osvědčí v ostré práci, dávám ven zdarma.
+Nástroje, které si stavím s Claudem, aby mi usnadnily práci. Co se mi osvědčí, dávám ven zdarma.
+Zatím jsou tu dva pro práci s reklamou, časem přibudou i nástroje na jiné věci.
 
 | Nástroj | Co dělá |
 |---|---|
@@ -17,7 +17,7 @@ rozhraní. Co se mi osvědčí v ostré práci, dávám ven zdarma.
 | [sklik-mcp](https://github.com/martinsevcik1/sklik-mcp) | Totéž pro Sklik: celé API Drak a k tomu Fénix (chytré kampaně, obrázky). |
 
 > [!WARNING]
-> Všechno tady je vibecoděné. Kód z velké části napsala AI podle mých zadání a já ho ladím na vlastní práci.
+> Všechno tady je vibecoděné. Kód z velké části napsala AI podle mých zadání a já ho ladím při vlastní práci.
 > Používám ho denně, ale počítej s chybami, neefektivním kódem i bezpečnostními riziky, na která jsem nepřišel.
 > Když na něco narazíš, dej mi vědět přes issue u daného repa. Bezpečnostní problémy radši e-mailem.
 
@@ -35,8 +35,8 @@ na Google Mapách nebo na Firmy.cz. Stačí pár vět o tom, jak se ti s nimi pr
 
 ## English
 
-Tools I build with Claude so I can manage ad accounts faster and with less clicking around web interfaces.
-Whatever proves itself in real client work, I give away for free.
+Tools I build with Claude to make my work easier. Whatever proves useful, I give away for free.
+So far there are two for working with ads, tools for other things will follow.
 
 | Tool | What it does |
 |---|---|
